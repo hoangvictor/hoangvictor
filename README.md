@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 At the moment, I hold positions in the financial industry as a data scientist and also a data engineer.
+
 <!--
 **hoangvictor/hoangvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
