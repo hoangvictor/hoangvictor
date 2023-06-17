@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 At the moment, I hold positions in the financial industry as a data scientist and also a data engineer.
+- 🔭 At the moment, I hold positions in the financial industry as a data scientist.
+- 🌱 I am presently acquiring knowledge about cloud services and actively engaging in the development of data infrastructure.
 
 #### My profile
 ![profile_stats](https://github-stats-psi-lyart.vercel.app/api?username=hoangvictor&theme=gruvbox&show_icons=true)
